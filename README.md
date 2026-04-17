@@ -71,49 +71,94 @@ This roadmap ensures you won’t miss any concept while building scalable data s
 - Specialize in **MLOps tools** → MLflow, Kubeflow, monitoring  
 
 ---
-## 🎥 YouTube Resources
-
-### Phase 1: Foundations
-- [Python for Beginners – Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
-- [SQL Tutorial – freeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY)
-- [Git & GitHub Crash Course – Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-
-### Phase 2: Data Engineering Essentials
-- [Apache Spark Full Course – Simplilearn](https://www.youtube.com/watch?v=_C8kWso4ne4)
-- [Kafka Tutorial – Confluent](https://www.youtube.com/watch?v=R873BlNVUB4)
-- [Airflow Tutorial – DataTalksClub](https://www.youtube.com/watch?v=AHZvMpF8c8Y)
-
-### Phase 3: Cloud Fundamentals
-- [AWS Tutorial for Beginners – freeCodeCamp](https://www.youtube.com/watch?v=3hLmDS179YE)
-- [Google Cloud BigQuery – Google Cloud Tech](https://www.youtube.com/watch?v=QwV6jWjS9YI)
-- [Azure Data Factory Basics – Microsoft Learn](https://www.youtube.com/watch?v=2HjN0ZfZrYw)
-
-### Phase 4: DevOps & Infrastructure
-- [Docker Tutorial – freeCodeCamp](https://www.youtube.com/watch?v=pTFZFxd4hOI)
-- [Kubernetes Explained – TechWorld with Nana](https://www.youtube.com/watch?v=X48VuDVv0do)
-- [CI/CD with GitHub Actions – GitHub](https://www.youtube.com/watch?v=R8_veQiYBjI)
-
-### Phase 5: MLOps Foundations
-- [MLflow Tutorial – Databricks](https://www.youtube.com/watch?v=QkBkZpK-fYQ)
-- [FastAPI Crash Course – freeCodeCamp](https://www.youtube.com/watch?v=0sOvCWFmrtA)
-- [TensorFlow Serving Basics – TensorFlow](https://www.youtube.com/watch?v=QKz1v3r6d3M)
-
-### Phase 6: Advanced MLOps
-- [Kubeflow Pipelines – Google Cloud](https://www.youtube.com/watch?v=9z6lH7Z9xjM)
-- [Prometheus & Grafana Monitoring – TechWorld with Nana](https://www.youtube.com/watch?v=h4Sl21AKiDg)
-- [Great Expectations Tutorial](https://www.youtube.com/watch?v=6pW4s2tQXcM)
+# 📘 Learning Resources: Data Engineering & MLOps
 
 ---
 
-## 🌐 Useful Websites
-- [Linux Journey](https://linuxjourney.com/) – Learn Linux step by step  
-- [Airflow Documentation](https://airflow.apache.org/) – Workflow orchestration  
-- [Spark Documentation](https://spark.apache.org/docs/latest/) – Big data processing  
-- [Terraform Docs](https://developer.hashicorp.com/terraform/docs) – Infrastructure as code  
-- [MLflow Documentation](https://mlflow.org/docs/latest/index.html) – Experiment tracking  
-- [Kubeflow Docs](https://www.kubeflow.org/docs/) – ML pipeline orchestration  
-- [Great Expectations Docs](https://docs.greatexpectations.io/) – Data quality checks  
+## Section 1: Programming Foundations
+
+### 🔹 Video Resource
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
+[Python in 4 Hours – Full Course (Programming with Mosh)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+
+### 🔹 Documentation
+- [Python Official Docs](https://docs.python.org/3/)  
+- [Pandas Documentation](https://pandas.pydata.org/docs/)  
 
 ---
 
-💡 *Adding YouTube and website links makes this roadmap actionable — learners can jump straight into tutorials and official docs without searching around.*
+## Section 2: SQL Basics
+
+### 🔹 Video Resource
+![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)  
+[SQL Tutorial – FreeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+
+### 🔹 Documentation
+- [PostgreSQL Docs](https://www.postgresql.org/docs/)  
+- [MySQL Docs](https://dev.mysql.com/doc/)  
+
+---
+
+## Section 3: Data Engineering Essentials
+
+### 🔹 Video Resource
+![Apache Spark Logo](https://spark.apache.org/images/spark-logo-trademark.png)  
+[Apache Spark Full Course – Simplilearn](https://www.youtube.com/watch?v=_C8kWso4ne4)
+
+### 🔹 Documentation
+- [Apache Spark Docs](https://spark.apache.org/docs/latest/)  
+- [Apache Kafka Docs](https://kafka.apache.org/documentation/)  
+- [Airflow Docs](https://airflow.apache.org/docs/)  
+
+---
+
+## Section 4: Cloud Fundamentals
+
+### 🔹 Video Resource
+![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)  
+[AWS Tutorial for Beginners – FreeCodeCamp](https://www.youtube.com/watch?v=3hLmDS179YE)
+
+### 🔹 Documentation
+- [AWS Docs](https://docs.aws.amazon.com/)  
+- [Google Cloud Docs](https://cloud.google.com/docs)  
+- [Azure Docs](https://learn.microsoft.com/en-us/azure/)  
+
+---
+
+## Section 5: DevOps & Infrastructure
+
+### 🔹 Video Resource
+![Docker Logo](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png)  
+[Docker Tutorial – FreeCodeCamp](https://www.youtube.com/watch?v=pTFZFxd4hOI)
+
+### 🔹 Documentation
+- [Docker Docs](https://docs.docker.com/)  
+- [Kubernetes Docs](https://kubernetes.io/docs/)  
+
+---
+
+## Section 6: MLOps Foundations
+
+### 🔹 Video Resource
+![MLflow Logo](https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png)  
+[MLflow Tutorial – Databricks](https://www.youtube.com/watch?v=QkBkZpK-fYQ)
+
+### 🔹 Documentation
+- [MLflow Docs](https://mlflow.org/docs/latest/index.html)  
+- [FastAPI Docs](https://fastapi.tiangolo.com/)  
+
+---
+
+## Section 7: Advanced MLOps
+
+### 🔹 Video Resource
+![Kubeflow Logo](https://www.kubeflow.org/docs/images/logos/Kubeflow-logo.png)  
+[Kubeflow Pipelines – Google Cloud](https://www.youtube.com/watch?v=9z6lH7Z9xjM)
+
+### 🔹 Documentation
+- [Kubeflow Docs](https://www.kubeflow.org/docs/)  
+- [Prometheus Docs](https://prometheus.io/docs/)  
+- [Grafana Docs](https://grafana.com/docs/)  
+- [Great Expectations Docs](https://docs.greatexpectations.io/)  
+
+---
